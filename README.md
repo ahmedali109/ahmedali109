@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedali109&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedali109" /> </p>
 
-- 💬 Ask me about **Web Dev**
+- 💬 Ask me about **Mobile Cross Platform and web Dev**
 
 - 📫 How to reach me **ahmedalynaguibhassan@gmail.com**
 
