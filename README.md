@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ahmed Naguib (NaguibWare)<br><br>Computer science student 💻. Passionate about learning 🧠. I look forward to modern technology Full Stack Dev 👨‍💻<br>💬 Ask me about Mobile Cross Platform and web Dev<br><br>📫 How to reach me ahmedalynaguibhassan@gmail.com<br><br>⚡ Fun fact once debugged a complex piece of code in the middle of a road trip, proving that a full stack developer’s expertise truly knows no bounds!<br>
+Hi 👋, I'm Ahmed Naguib (Naguib Ware 👾)<br><br>Computer science student 💻. Passionate about learning 🧠. I look forward to modern technology Full Stack Dev 👨‍💻<br><br>💬 Ask me about Mobile Cross Platform and web Dev<br><br>📫 How to reach me ahmedalynaguibhassan@gmail.com<br><br>⚡ Fun fact once debugged a complex piece of code in the middle of a road trip, proving that a full stack developer’s expertise truly knows no bounds!<br>
 
 
 # 💻 Tech Stack:
