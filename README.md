@@ -1,8 +1,12 @@
 # 💫 About Me:
 Hi 👋, I'm Ahmed Naguib (Naguib Ware 👾)<br><br>Computer science student 💻.<br><br> Passionate about learning 🧠.<br><br>💬 Ask me about Mobile Cross Platform and web Dev<br><br>📫 How to reach me ahmedalynaguibhassan@gmail.com<br><br>⚡ Fun fact once debugged a complex piece of code in the middle of a road trip, proving that a full stack developer’s expertise truly knows no bounds!<br>
 
-<h2> <img src="https://secure.static.tumblr.com/ef2e2596c4ea072a60453d23ceab337f/coctv14/Y6Ln55n03/tumblr_static_azgsowaz948okgow4c4o8go8c.gif" width="100%"/> </h2>
-
+<a href=#>
+  <img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif"
+       alt="Tech"
+       align="right"
+       width="50%">
+</a>
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=ahmedali109&label=Profile%20views&color=0e75b6&style=flat" alt="profile viewer">
